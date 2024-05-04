@@ -1,0 +1,46 @@
+body {
+    background-color: #333;
+}
+
+h1 {
+    text-align: center;
+}
+
+.my-form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.input-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.form-field {
+    margin: 0 5px;
+}
+
+.my-button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.exchange-item {
+    text-align: center;
+    margin-top: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.exchange-item p {
+    margin: 5px;
+}
